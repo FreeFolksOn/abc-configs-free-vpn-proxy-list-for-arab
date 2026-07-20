@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-20%2018%3A27%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-20%2018%3A37%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,16 +52,16 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-20 18:27 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-20 18:37 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 20 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 20 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>منذ 25 دقيقة</td><td>20 ms</td><td>100.0%</td><td>منذ 24 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>03</td><td>منذ 25 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:10851#Гонконг🇭🇰</code></td></tr>
+    <tr><td>01</td><td>منذ 30 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 30 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>منذ 35 دقيقة</td><td>20 ms</td><td>100.0%</td><td>منذ 34 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>03</td><td>منذ 35 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:10851#Гонконг🇭🇰</code></td></tr>
     <tr><td>04</td><td>منذ 1 ساعة</td><td>8 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#trojan</td><td><code>trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
     <tr><td>05</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#ss</td><td><code>ss://8673cea6…</code></td></tr>
     <tr><td>06</td><td>منذ 1 ساعة</td><td>8 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
@@ -74,12 +74,12 @@
     <tr><td>13</td><td>منذ 1 ساعة</td><td>49 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&amp;encryption=none&amp;pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=80ba#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
     <tr><td>14</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>15</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>16</td><td>منذ 1 ساعة</td><td>23 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>17</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyUPMNLB</code></td></tr>
-    <tr><td>18</td><td>منذ 1 ساعة</td><td>13 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>19</td><td>منذ 1 ساعة</td><td>13 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>20</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyUPMNLB</code></td></tr>
-    <tr><td>21</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
+    <tr><td>16</td><td>منذ 2 ساعة</td><td>23 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>17</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyUPMNLB</code></td></tr>
+    <tr><td>18</td><td>منذ 2 ساعة</td><td>13 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>19</td><td>منذ 2 ساعة</td><td>13 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>20</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyUPMNLB</code></td></tr>
+    <tr><td>21</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
     <tr><td>22</td><td>منذ 2 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>23</td><td>منذ 2 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>24</td><td>منذ 2 ساعة</td><td>191 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:10851#Гонконг🇭🇰</code></td></tr>
