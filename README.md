@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-20%2018%3A17%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-20%2018%3A27%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,16 +52,16 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-20 18:17 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-20 18:27 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 10 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 10 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>منذ 15 دقيقة</td><td>20 ms</td><td>100.0%</td><td>منذ 14 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>03</td><td>منذ 15 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:10851#Гонконг🇭🇰</code></td></tr>
+    <tr><td>01</td><td>منذ 20 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 20 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>منذ 25 دقيقة</td><td>20 ms</td><td>100.0%</td><td>منذ 24 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>03</td><td>منذ 25 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:10851#Гонконг🇭🇰</code></td></tr>
     <tr><td>04</td><td>منذ 1 ساعة</td><td>8 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#trojan</td><td><code>trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
     <tr><td>05</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#ss</td><td><code>ss://8673cea6…</code></td></tr>
     <tr><td>06</td><td>منذ 1 ساعة</td><td>8 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
@@ -86,9 +86,9 @@
     <tr><td>25</td><td>منذ 2 ساعة</td><td>24 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>26</td><td>منذ 3 ساعة</td><td>286 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.34.200:50099#Тайвань🇹🇼</code></td></tr>
     <tr><td>27</td><td>منذ 3 ساعة</td><td>19 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>28</td><td>منذ 3 ساعة</td><td>16 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#vless</td><td><code>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=t1s1.rittbo.kdns.fr&amp;sni=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40NormanV2ray%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5</code></td></tr>
-    <tr><td>29</td><td>منذ 3 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40NormanV2ray%20%7C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%85%D8%B1</code></td></tr>
-    <tr><td>30</td><td>منذ 3 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#trojan</td><td><code>trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?type=grpc&amp;security=reality&amp;mode=gun&amp;sni=chi.yahoo.com&amp;fp=firefox&amp;insecure=1&amp;allowInsecure=1&amp;pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFx…</code></td></tr>
+    <tr><td>28</td><td>منذ 4 ساعة</td><td>16 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#vless</td><td><code>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=t1s1.rittbo.kdns.fr&amp;sni=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40NormanV2ray%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5</code></td></tr>
+    <tr><td>29</td><td>منذ 4 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://d223a3b5-d048-4c7f-83ea-8c1466bc28f2@q7sv9.pastilbastani.ir:443?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40NormanV2ray%20%7C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D9%85%D8%B1</code></td></tr>
+    <tr><td>30</td><td>منذ 4 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#trojan</td><td><code>trojan://-------BanV2ray------@edededededededededededede-66.poki-pakipon.ir:36268?type=grpc&amp;security=reality&amp;mode=gun&amp;sni=chi.yahoo.com&amp;fp=firefox&amp;insecure=1&amp;allowInsecure=1&amp;pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFx…</code></td></tr>
   </tbody>
 </table>
 
