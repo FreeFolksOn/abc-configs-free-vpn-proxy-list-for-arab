@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-21%2020%3A47%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-21%2020%3A57%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,23 +52,23 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-21 20:47 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-21 20:57 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 15 دقيقة</td><td>27 ms</td><td>100.0%</td><td>منذ 14 دقيقة</td><td>#ss</td><td><code>ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
-    <tr><td>02</td><td>منذ 15 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
-    <tr><td>03</td><td>منذ 15 دقيقة</td><td>27 ms</td><td>100.0%</td><td>منذ 15 دقيقة</td><td>#vless</td><td><code>vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
-    <tr><td>04</td><td>منذ 15 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
-    <tr><td>05</td><td>منذ 36 دقيقة</td><td>17 ms</td><td>100.0%</td><td>منذ 36 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>06</td><td>منذ 40 دقيقة</td><td>141 ms</td><td>100.0%</td><td>منذ 40 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
-    <tr><td>07</td><td>منذ 40 دقيقة</td><td>379 ms</td><td>100.0%</td><td>منذ 40 دقيقة</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>08</td><td>منذ 40 دقيقة</td><td>374 ms</td><td>100.0%</td><td>منذ 40 دقيقة</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>09</td><td>منذ 56 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 56 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>10</td><td>منذ 56 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 56 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>01</td><td>منذ 25 دقيقة</td><td>27 ms</td><td>100.0%</td><td>منذ 24 دقيقة</td><td>#ss</td><td><code>ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
+    <tr><td>02</td><td>منذ 25 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
+    <tr><td>03</td><td>منذ 25 دقيقة</td><td>27 ms</td><td>100.0%</td><td>منذ 25 دقيقة</td><td>#vless</td><td><code>vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
+    <tr><td>04</td><td>منذ 25 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_Proxy596DBA</code></td></tr>
+    <tr><td>05</td><td>منذ 46 دقيقة</td><td>17 ms</td><td>100.0%</td><td>منذ 46 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>06</td><td>منذ 50 دقيقة</td><td>141 ms</td><td>100.0%</td><td>منذ 50 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
+    <tr><td>07</td><td>منذ 50 دقيقة</td><td>379 ms</td><td>100.0%</td><td>منذ 50 دقيقة</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>08</td><td>منذ 50 دقيقة</td><td>374 ms</td><td>100.0%</td><td>منذ 50 دقيقة</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>09</td><td>منذ 1 ساعة</td><td>16 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>10</td><td>منذ 1 ساعة</td><td>14 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>11</td><td>منذ 1 ساعة</td><td>66 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?security=reality&amp;encryption=none&amp;pbk=IZn3ibz8K1yot2cj4ssmAQHVB--xrcQEc3RCFQUSRiE&amp;headerType=none&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=deepl.com&amp;sid=2143#%40vpnbaz%20%F0%9F%9B%B8</code></td></tr>
     <tr><td>12</td><td>منذ 1 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#%40vpnbaz%20%F0%9F%90%8D</code></td></tr>
     <tr><td>13</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
@@ -88,7 +88,7 @@
     <tr><td>27</td><td>منذ 2 ساعة</td><td>36 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
     <tr><td>28</td><td>منذ 3 ساعة</td><td>26 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>29</td><td>منذ 3 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#trojan</td><td><code>trojan://tunnel-astrovpn_official103@213.108.198.158:8441#Германия🇩🇪</code></td></tr>
-    <tr><td>30</td><td>منذ 3 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>30</td><td>منذ 4 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.71.64:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
   </tbody>
 </table>
 
