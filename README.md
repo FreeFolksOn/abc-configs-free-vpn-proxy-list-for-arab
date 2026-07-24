@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-24%2022%3A27%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-24%2022%3A37%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,15 +52,15 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-24 22:27 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-24 22:37 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 22 دقيقة</td><td>9 ms</td><td>100.0%</td><td>منذ 22 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtaGFtaWQzMg@179.61.251.63:8444#Германия🇩🇪</code></td></tr>
-    <tr><td>02</td><td>منذ 44 دقيقة</td><td>97 ms</td><td>100.0%</td><td>منذ 44 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
+    <tr><td>01</td><td>منذ 32 دقيقة</td><td>9 ms</td><td>100.0%</td><td>منذ 32 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtaGFtaWQzMg@179.61.251.63:8444#Германия🇩🇪</code></td></tr>
+    <tr><td>02</td><td>منذ 54 دقيقة</td><td>97 ms</td><td>100.0%</td><td>منذ 54 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
     <tr><td>03</td><td>منذ 1 ساعة</td><td>164 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2054?encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=none&amp;type=xhttp&amp;x_padding_bytes=100-1000#xhttp-norman</code></td></tr>
     <tr><td>04</td><td>منذ 1 ساعة</td><td>160 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:2052?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;security=tls&amp;sni=&amp;type=tcp#tls-2-norman</code></td></tr>
     <tr><td>05</td><td>منذ 1 ساعة</td><td>162 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:8443?encryption=none&amp;host=&amp;path=%2F&amp;security=none&amp;type=ws#ws-norman</code></td></tr>
@@ -69,11 +69,11 @@
     <tr><td>08</td><td>منذ 1 ساعة</td><td>180 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://18e20d7b-f475-4e8e-b65a-da8e31931d29@31.57.63.207:8443?encryption=none&amp;host=&amp;path=%2F&amp;security=none&amp;type=ws#ws-norman</code></td></tr>
     <tr><td>09</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?fp=chrome&amp;sni=www.speedtest.net&amp;sid=479826bdfc3eb86e&amp;type=tcp&amp;encryption=none&amp;pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&amp;flow=xtls-rprx-vision&amp;headerType=none&amp;security=reality#norman</code></td></tr>
     <tr><td>10</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?fp=chrome&amp;sni=www.speedtest.net&amp;sid=479826bdfc3eb86e&amp;type=tcp&amp;encryption=none&amp;pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&amp;flow=xtls-rprx-vision&amp;headerType=none&amp;security=reality#norman</code></td></tr>
-    <tr><td>11</td><td>منذ 1 ساعة</td><td>11 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNA9SYR8</code></td></tr>
-    <tr><td>12</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪</code></td></tr>
-    <tr><td>13</td><td>منذ 1 ساعة</td><td>11 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNA9SYR8</code></td></tr>
-    <tr><td>14</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪</code></td></tr>
-    <tr><td>15</td><td>منذ 1 ساعة</td><td>98 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
+    <tr><td>11</td><td>منذ 2 ساعة</td><td>11 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNA9SYR8</code></td></tr>
+    <tr><td>12</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪</code></td></tr>
+    <tr><td>13</td><td>منذ 2 ساعة</td><td>11 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNA9SYR8</code></td></tr>
+    <tr><td>14</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪</code></td></tr>
+    <tr><td>15</td><td>منذ 2 ساعة</td><td>98 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjgwMzM2MWQ2YzE5NmFmOA@50.114.177.134:20188#Канада🇨🇦</code></td></tr>
     <tr><td>16</td><td>منذ 2 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>17</td><td>منذ 2 ساعة</td><td>14 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>18</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=yu9kg2i7o07klp010743711lllll.ir.meli-n13.info&amp;port=8443&amp;secret=104462821249bd7ac519130220c25d09</code></td></tr>
