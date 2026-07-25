@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-25%2020%3A07%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-25%2020%3A17%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,21 +52,21 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-25 20:07 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-25 20:17 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 1 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 51 ثانية</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>02</td><td>منذ 1 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 56 ثانية</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>منذ 25 دقيقة</td><td>19 ms</td><td>100.0%</td><td>منذ 25 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>04</td><td>منذ 30 دقيقة</td><td>135 ms</td><td>100.0%</td><td>منذ 29 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
+    <tr><td>01</td><td>منذ 11 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 10 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>منذ 11 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 10 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>منذ 35 دقيقة</td><td>19 ms</td><td>100.0%</td><td>منذ 35 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>04</td><td>منذ 40 دقيقة</td><td>135 ms</td><td>100.0%</td><td>منذ 39 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
     <tr><td>05</td><td>منذ 1 ساعة</td><td>14 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>06</td><td>منذ 1 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>07</td><td>منذ 1 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>08</td><td>منذ 1 ساعة</td><td>200 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#Таиланд🇹🇭</code></td></tr>
+    <tr><td>08</td><td>منذ 2 ساعة</td><td>200 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ@102.129.229.85:31700#Таиланд🇹🇭</code></td></tr>
     <tr><td>09</td><td>منذ 2 ساعة</td><td>17 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://22ceed66-6218-4688-9234-9ba29027774b@cdn1.portalcode.ir:2083?encryption=none&amp;security=tls&amp;type=xhttp&amp;headerType=none&amp;path=%2F&amp;host=faa7a5dd2bbe3d25.rainzone.ir&amp;mode=auto&amp;sni=faa7a5dd2bbe3d25.rainzone.ir&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20%E2%9F%A1%20%E2%AC%86%EF%B8%8F%20%CA%9C%E1%B4%9B%E1%B4%9B%E1%B4%98%E1%B4%9C%E1%B4%98%C9%A2%CA%80%E1%B4%80%E1%B4%85%E1%B4%87%20</code></td></tr>
     <tr><td>10</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://22ceed66-6218-4688-9234-9ba29027774b@sw.foot8all.ir:80?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;fp=firefox&amp;pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&amp;sid=9e3f5e25c17d2615#%F0%9F%87%B8%F0%9F%87%AA%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87…</code></td></tr>
     <tr><td>11</td><td>منذ 2 ساعة</td><td>380 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://22ceed66-6218-4688-9234-9ba29027774b@sp.foot8all.ir:443?encryption=none&amp;security=reality&amp;type=tcp&amp;headerType=none&amp;sni=msn.com&amp;fp=ios&amp;pbk=9s3yEketDxPnrIxtN-KUdfVJ_p3gfOpcr_0abD4vSFw&amp;sid=9898d6525ddd5816#%F0%9F%87%AA%F0%9F%87%B8%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20</code></td></tr>
