@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-25%2007%3A37%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-25%2007%3A47%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,22 +52,22 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-25 07:37 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-25 07:47 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 36 دقيقة</td><td>156 ms</td><td>100.0%</td><td>منذ 36 دقيقة</td><td>#ss</td><td><code>ss://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>منذ 36 دقيقة</td><td>161 ms</td><td>100.0%</td><td>منذ 36 دقيقة</td><td>#vless</td><td><code>vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
-    <tr><td>03</td><td>منذ 52 دقيقة</td><td>9 ms</td><td>100.0%</td><td>منذ 52 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>04</td><td>منذ 52 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 52 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
-    <tr><td>05</td><td>منذ 53 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 53 دقيقة</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#Telegram%3A%20@NormanV2ray</code></td></tr>
-    <tr><td>06</td><td>منذ 53 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 53 دقيقة</td><td>#ss</td><td><code>ss://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#Telegram%3A%20@NormanV2ray</code></td></tr>
-    <tr><td>07</td><td>منذ 53 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 53 دقيقة</td><td>#vless</td><td><code>vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#Telegram%3A%20@NormanV2ray</code></td></tr>
-    <tr><td>08</td><td>منذ 53 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 53 دقيقة</td><td>#vless</td><td><code>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#Telegram%3A%20@NormanV2ray</code></td></tr>
-    <tr><td>09</td><td>منذ 55 دقيقة</td><td>21 ms</td><td>100.0%</td><td>منذ 55 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>منذ 46 دقيقة</td><td>156 ms</td><td>100.0%</td><td>منذ 46 دقيقة</td><td>#ss</td><td><code>ss://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>منذ 46 دقيقة</td><td>161 ms</td><td>100.0%</td><td>منذ 46 دقيقة</td><td>#vless</td><td><code>vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535#США🇺🇸</code></td></tr>
+    <tr><td>03</td><td>منذ 1 ساعة</td><td>9 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>04</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.73.247.190:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
+    <tr><td>05</td><td>منذ 1 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#Telegram%3A%20@NormanV2ray</code></td></tr>
+    <tr><td>06</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#Telegram%3A%20@NormanV2ray</code></td></tr>
+    <tr><td>07</td><td>منذ 1 ساعة</td><td>16 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@162.159.38.119:443?path=%2Frsedgws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=shegeftihaaa.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=shegeftihaaa.net#Telegram%3A%20@NormanV2ray</code></td></tr>
+    <tr><td>08</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.70:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#Telegram%3A%20@NormanV2ray</code></td></tr>
+    <tr><td>09</td><td>منذ 1 ساعة</td><td>21 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>10</td><td>منذ 1 ساعة</td><td>106 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#trojan</td><td><code>trojan://humanity@2.144.21.112:40443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>11</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>12</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.dev&amp;path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
