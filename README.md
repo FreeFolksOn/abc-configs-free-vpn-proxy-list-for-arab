@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-27%2003%3A27%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-07-27%2003%3A37%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,14 +52,14 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-07-27 03:27 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-07-27 03:37 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 26 دقيقة</td><td>167 ms</td><td>100.0%</td><td>منذ 26 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOGFzYXI5bHJ4aGF2aDM4@178.128.86.181:51435#Сингапур🇸🇬</code></td></tr>
+    <tr><td>01</td><td>منذ 36 دقيقة</td><td>167 ms</td><td>100.0%</td><td>منذ 36 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppOGFzYXI5bHJ4aGF2aDM4@178.128.86.181:51435#Сингапур🇸🇬</code></td></tr>
     <tr><td>02</td><td>منذ 1 ساعة</td><td>291 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@125.224.227.94:50099#Тайвань🇹🇼</code></td></tr>
     <tr><td>03</td><td>منذ 2 ساعة</td><td>22 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>04</td><td>منذ 3 ساعة</td><td>22 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
@@ -75,10 +75,10 @@
     <tr><td>14</td><td>منذ 5 ساعة</td><td>59 ms</td><td>100.0%</td><td>منذ 5 ساعة</td><td>#vless</td><td><code>vless://a2292e36-fafb-6634-051d-1d99f45503c7@dl2dl2dl2.lornavps.ir:8855?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Channel%20%3A%20%40Daily_Configs</code></td></tr>
     <tr><td>15</td><td>منذ 5 ساعة</td><td>16 ms</td><td>100.0%</td><td>منذ 5 ساعة</td><td>#vless</td><td><code>vless://3536e1fa-0850-44d1-b123-925ce12476cf@206.71.158.124:443?mode=stream-one&amp;path=%2Fkavir&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=dey.lnmarketplace.net&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dey.lnmarketplace.net#Channel%20%3A%20%40Daily_Configs</code></td></tr>
     <tr><td>16</td><td>منذ 6 ساعة</td><td>482 ms</td><td>100.0%</td><td>منذ 6 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
-    <tr><td>17</td><td>منذ 6 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
-    <tr><td>18</td><td>منذ 6 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
-    <tr><td>19</td><td>منذ 6 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
-    <tr><td>20</td><td>منذ 6 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
+    <tr><td>17</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
+    <tr><td>18</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
+    <tr><td>19</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
+    <tr><td>20</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
     <tr><td>21</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=167.235.30.103&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>22</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=77.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
     <tr><td>23</td><td>منذ 7 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=a.artishchev.org&amp;port=8443&amp;secret=963a7fd525b04c4533ce776c9bd70f34</code></td></tr>
