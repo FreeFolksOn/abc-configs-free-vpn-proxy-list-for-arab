@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-02%2018%3A47%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-02%2018%3A57%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,18 +52,18 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-02 18:47 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-02 18:57 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 5 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 5 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>02</td><td>منذ 5 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 5 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>منذ 8 دقيقة</td><td>21 ms</td><td>100.0%</td><td>منذ 8 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>04</td><td>منذ 32 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 32 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>05</td><td>منذ 37 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 37 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#Франция🇫🇷</code></td></tr>
+    <tr><td>01</td><td>منذ 15 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 15 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>منذ 15 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 15 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>منذ 18 دقيقة</td><td>21 ms</td><td>100.0%</td><td>منذ 18 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>04</td><td>منذ 42 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 42 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>05</td><td>منذ 47 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 47 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#Франция🇫🇷</code></td></tr>
     <tr><td>06</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.91.68:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>07</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.157.91.68:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>08</td><td>منذ 1 ساعة</td><td>139 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
@@ -83,12 +83,12 @@
     <tr><td>22</td><td>منذ 2 ساعة</td><td>27 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
     <tr><td>23</td><td>منذ 2 ساعة</td><td>31 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://1ee6dbe4-b7bd-47bd-b6e5-23deb076f95b@gr5.levikogjgfdd.ir:443?security=reality&amp;encryption=none&amp;pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=sellflow.org#%40vpnbaz%20%F0%9F%8D%AD…</code></td></tr>
     <tr><td>24</td><td>منذ 2 ساعة</td><td>26 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;security=tls&amp;insecure=0&amp;host=tjplay.lxdxo.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=tjplay.lxdxo.kdns.fr#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
-    <tr><td>25</td><td>منذ 3 ساعة</td><td>24 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://bccd6085-b88a-40ec-872c-a59cff204afc@gotveran.sav-savteam.ir:2010?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#@NormanConfig</code></td></tr>
-    <tr><td>26</td><td>منذ 3 ساعة</td><td>33 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffdip&amp;host=learn00.evany.de5.net&amp;sni=learn00.evany.de5.net&amp;insecure=0&amp;allowInsecure=0#@NormanConfig</code></td></tr>
-    <tr><td>27</td><td>منذ 3 ساعة</td><td>112 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&amp;sni=qq.utiltools.ru&amp;fp=qq&amp;insecure=1&amp;allowInsecure=1&amp;pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&amp;flow=xtls-rprx-vision#@NormanConfig</code></td></tr>
-    <tr><td>28</td><td>منذ 3 ساعة</td><td>17 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fsg-melbi&amp;host=support.zoom.us.yxls.eu.cc&amp;sni=support.zoom.us…</code></td></tr>
-    <tr><td>29</td><td>منذ 3 ساعة</td><td>27 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffdip&amp;host=learn00.evany.de5.net&amp;sni=learn00.evany.de5.net&amp;insecure=0&amp;allowInsecure=0#@NormanConfig</code></td></tr>
-    <tr><td>30</td><td>منذ 3 ساعة</td><td>19 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://bccd6085-b88a-40ec-872c-a59cff204afc@gotveran.sav-savteam.ir:2010?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#@NormanConfig</code></td></tr>
+    <tr><td>25</td><td>منذ 3 ساعة</td><td>24 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#vless</td><td><code>vless://bccd6085-b88a-40ec-872c-a59cff204afc@gotveran.sav-savteam.ir:2010?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#@NormanConfig</code></td></tr>
+    <tr><td>26</td><td>منذ 3 ساعة</td><td>33 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffdip&amp;host=learn00.evany.de5.net&amp;sni=learn00.evany.de5.net&amp;insecure=0&amp;allowInsecure=0#@NormanConfig</code></td></tr>
+    <tr><td>27</td><td>منذ 3 ساعة</td><td>112 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#vless</td><td><code>vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?encryption=none&amp;type=tcp&amp;security=reality&amp;headerType=none&amp;host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&amp;sni=qq.utiltools.ru&amp;fp=qq&amp;insecure=1&amp;allowInsecure=1&amp;pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&amp;flow=xtls-rprx-vision#@NormanConfig</code></td></tr>
+    <tr><td>28</td><td>منذ 3 ساعة</td><td>17 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fsg-melbi&amp;host=support.zoom.us.yxls.eu.cc&amp;sni=support.zoom.us…</code></td></tr>
+    <tr><td>29</td><td>منذ 3 ساعة</td><td>27 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Ffdip&amp;host=learn00.evany.de5.net&amp;sni=learn00.evany.de5.net&amp;insecure=0&amp;allowInsecure=0#@NormanConfig</code></td></tr>
+    <tr><td>30</td><td>منذ 3 ساعة</td><td>19 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://bccd6085-b88a-40ec-872c-a59cff204afc@gotveran.sav-savteam.ir:2010?encryption=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#@NormanConfig</code></td></tr>
   </tbody>
 </table>
 
