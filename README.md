@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-02%2014%3A57%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-02%2015%3A07%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,17 +52,17 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-02 14:57 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-02 15:07 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 22 دقيقة</td><td>24 ms</td><td>100.0%</td><td>منذ 22 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>منذ 44 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 44 دقيقة</td><td>#ss</td><td><code>ss://16c8992d-46f5-4391-9c79-021a18c43d63@132.243.242.152:28175?security=reality&amp;encryption=none&amp;pbk=sngFeTDSaiRoEWi3tw-KpxklJki6QzrV64Sup2oMShs&amp;headerType=http&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=play.google.com&amp;sid=6877#%40NormanV2ray%20%F0%9F%92%9F</code></td></tr>
-    <tr><td>03</td><td>منذ 44 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 44 دقيقة</td><td>#vless</td><td><code>vless://16c8992d-46f5-4391-9c79-021a18c43d63@132.243.242.152:28175?security=reality&amp;encryption=none&amp;pbk=sngFeTDSaiRoEWi3tw-KpxklJki6QzrV64Sup2oMShs&amp;headerType=http&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=play.google.com&amp;sid=6877#%40NormanV2ray%20%F0%9F%92%9F</code></td></tr>
-    <tr><td>04</td><td>منذ 50 دقيقة</td><td>142 ms</td><td>100.0%</td><td>منذ 50 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>منذ 32 دقيقة</td><td>24 ms</td><td>100.0%</td><td>منذ 32 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>منذ 54 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 54 دقيقة</td><td>#ss</td><td><code>ss://16c8992d-46f5-4391-9c79-021a18c43d63@132.243.242.152:28175?security=reality&amp;encryption=none&amp;pbk=sngFeTDSaiRoEWi3tw-KpxklJki6QzrV64Sup2oMShs&amp;headerType=http&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=play.google.com&amp;sid=6877#%40NormanV2ray%20%F0%9F%92%9F</code></td></tr>
+    <tr><td>03</td><td>منذ 54 دقيقة</td><td>16 ms</td><td>100.0%</td><td>منذ 54 دقيقة</td><td>#vless</td><td><code>vless://16c8992d-46f5-4391-9c79-021a18c43d63@132.243.242.152:28175?security=reality&amp;encryption=none&amp;pbk=sngFeTDSaiRoEWi3tw-KpxklJki6QzrV64Sup2oMShs&amp;headerType=http&amp;fp=qq&amp;spx=%2F&amp;type=tcp&amp;sni=play.google.com&amp;sid=6877#%40NormanV2ray%20%F0%9F%92%9F</code></td></tr>
+    <tr><td>04</td><td>منذ 1 ساعة</td><td>142 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
     <tr><td>05</td><td>منذ 1 ساعة</td><td>17 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>06</td><td>منذ 1 ساعة</td><td>8 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#Германия🇩🇪</code></td></tr>
     <tr><td>07</td><td>منذ 2 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.150.100:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
