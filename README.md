@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-04%2001%3A37%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-04%2001%3A47%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,18 +52,18 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-04 01:37 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-04 01:47 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 27 دقيقة</td><td>20 ms</td><td>100.0%</td><td>منذ 26 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#Великобритания🇬🇧</code></td></tr>
+    <tr><td>01</td><td>منذ 37 دقيقة</td><td>20 ms</td><td>100.0%</td><td>منذ 36 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#Великобритания🇬🇧</code></td></tr>
     <tr><td>02</td><td>منذ 1 ساعة</td><td>51 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#Россия🇷🇺</code></td></tr>
     <tr><td>03</td><td>منذ 2 ساعة</td><td>35 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Финляндия🇫🇮</code></td></tr>
     <tr><td>04</td><td>منذ 3 ساعة</td><td>259 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#Япония🇯🇵</code></td></tr>
-    <tr><td>05</td><td>منذ 3 ساعة</td><td>144 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
+    <tr><td>05</td><td>منذ 4 ساعة</td><td>144 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
     <tr><td>06</td><td>منذ 4 ساعة</td><td>26 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#trojan</td><td><code>trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&amp;security=tls&amp;insecure=0&amp;host=tjplay.lxd…</code></td></tr>
     <tr><td>07</td><td>منذ 4 ساعة</td><td>68 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443?security=reality&amp;encryption=none&amp;pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&amp;host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=qq.utiltools.ru#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
     <tr><td>08</td><td>منذ 4 ساعة</td><td>26 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
