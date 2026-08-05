@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-05%2000%3A57%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-05%2001%3A07%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,14 +52,14 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-05 00:57 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-05 01:07 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 49 دقيقة</td><td>134 ms</td><td>100.0%</td><td>منذ 49 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
+    <tr><td>01</td><td>منذ 59 دقيقة</td><td>134 ms</td><td>100.0%</td><td>منذ 59 دقيقة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
     <tr><td>02</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ==@130.61.178.208:59924#Германия🇩🇪</code></td></tr>
     <tr><td>03</td><td>منذ 2 ساعة</td><td>293 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@62.76.234.75:10901#Италия🇮🇹</code></td></tr>
     <tr><td>04</td><td>منذ 3 ساعة</td><td>8 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://5930c920-c5b4-4211-a861-fdb3c4c65e04@104.248.136.146:48654?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Germany%20D-91</code></td></tr>
@@ -86,7 +86,7 @@
     <tr><td>25</td><td>منذ 3 ساعة</td><td>10 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://ede09f1c-a873-4ad5-b571-35cba436c2f1@165.232.71.215:28013?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#Germany%20D-98</code></td></tr>
     <tr><td>26</td><td>منذ 3 ساعة</td><td>20 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://9f34133c-2580-48ea-a91a-482df1534723@64.227.39.91:23211?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#United%20Kingdom%20D-80</code></td></tr>
     <tr><td>27</td><td>منذ 3 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://323ab367-01ee-4f0f-b460-a915c411210a@161.35.74.77:44791?security=&amp;encrypt…</code></td></tr>
-    <tr><td>28</td><td>منذ 3 ساعة</td><td>107 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
+    <tr><td>28</td><td>منذ 4 ساعة</td><td>107 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
     <tr><td>29</td><td>منذ 4 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 %40flyv2ray31LY0O</code></td></tr>
     <tr><td>30</td><td>منذ 4 ساعة</td><td>9 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#vless</td><td><code>vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=coco.mahmoodchitooz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20150%20%28%40Outline_Vpn%29%20free</code></td></tr>
   </tbody>
