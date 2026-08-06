@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-06%2010%3A47%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-06%2010%3A57%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,20 +52,20 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-06 10:47 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-06 10:57 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 10 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 10 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.162.215:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>02</td><td>منذ 10 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 10 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.162.215:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>03</td><td>منذ 41 دقيقة</td><td>24 ms</td><td>100.0%</td><td>منذ 41 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>04</td><td>منذ 59 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:8443?alpn=h2%2Chttp%2F1.1&amp;authority=&amp;encryption=none&amp;fp=chrome&amp;security=tls&amp;serviceName=&amp;sni=&amp;type=grpc#Norman</code></td></tr>
-    <tr><td>05</td><td>منذ 59 دقيقة</td><td>1191 ms</td><td>33.3%</td><td>منذ 59 دقيقة</td><td>#ss</td><td><code>ss://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#t-Norman</code></td></tr>
-    <tr><td>06</td><td>منذ 59 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:8443?alpn=h2%2Chttp%2F1.1&amp;authority=&amp;encryption=none&amp;fp=chrome&amp;security=tls&amp;serviceName=&amp;sni=&amp;type=grpc#Norman</code></td></tr>
-    <tr><td>07</td><td>منذ 59 دقيقة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#t-Norman</code></td></tr>
+    <tr><td>01</td><td>منذ 20 دقيقة</td><td>14 ms</td><td>100.0%</td><td>منذ 20 دقيقة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.162.215:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>02</td><td>منذ 20 دقيقة</td><td>15 ms</td><td>100.0%</td><td>منذ 20 دقيقة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.162.215:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>03</td><td>منذ 51 دقيقة</td><td>24 ms</td><td>100.0%</td><td>منذ 51 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>04</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:8443?alpn=h2%2Chttp%2F1.1&amp;authority=&amp;encryption=none&amp;fp=chrome&amp;security=tls&amp;serviceName=&amp;sni=&amp;type=grpc#Norman</code></td></tr>
+    <tr><td>05</td><td>منذ 1 ساعة</td><td>1191 ms</td><td>33.3%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#t-Norman</code></td></tr>
+    <tr><td>06</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:8443?alpn=h2%2Chttp%2F1.1&amp;authority=&amp;encryption=none&amp;fp=chrome&amp;security=tls&amp;serviceName=&amp;sni=&amp;type=grpc#Norman</code></td></tr>
+    <tr><td>07</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://8cb99363-ddfb-4185-b39e-036079eaf086@95.182.92.238:443?alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;host=&amp;mode=auto&amp;path=%2F&amp;security=tls&amp;sni=&amp;type=xhttp&amp;x_padding_bytes=100-1000#t-Norman</code></td></tr>
     <tr><td>08</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.18.196:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>09</td><td>منذ 1 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.18.196:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>10</td><td>منذ 1 ساعة</td><td>21 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
@@ -87,8 +87,8 @@
     <tr><td>26</td><td>منذ 4 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#trojan</td><td><code>trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>27</td><td>منذ 4 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>28</td><td>منذ 4 ساعة</td><td>18 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>29</td><td>منذ 4 ساعة</td><td>127 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%3E%3E%40v2ray_configs_pool%3A%3AUS</code></td></tr>
-    <tr><td>30</td><td>منذ 4 ساعة</td><td>150 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#vmess</td><td><code>vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUyJ9</code></td></tr>
+    <tr><td>29</td><td>منذ 5 ساعة</td><td>127 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%3E%3E%40v2ray_configs_pool%3A%3AUS</code></td></tr>
+    <tr><td>30</td><td>منذ 5 ساعة</td><td>150 ms</td><td>100.0%</td><td>منذ 4 ساعة</td><td>#vmess</td><td><code>vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUyJ9</code></td></tr>
   </tbody>
 </table>
 
