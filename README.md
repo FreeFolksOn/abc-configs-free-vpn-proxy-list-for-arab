@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-07%2007%3A27%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-07%2007%3A37%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,15 +52,15 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-07 07:27 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-07 07:37 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 24 دقيقة</td><td>22 ms</td><td>100.0%</td><td>منذ 24 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>02</td><td>منذ 42 دقيقة</td><td>19 ms</td><td>100.0%</td><td>منذ 42 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>منذ 34 دقيقة</td><td>22 ms</td><td>100.0%</td><td>منذ 34 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>02</td><td>منذ 52 دقيقة</td><td>19 ms</td><td>100.0%</td><td>منذ 52 دقيقة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>03</td><td>منذ 1 ساعة</td><td>14 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@143.47.178.83:45819#Нидерланды🇳🇱</code></td></tr>
     <tr><td>04</td><td>منذ 1 ساعة</td><td>18 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#trojan</td><td><code>trojan://humanity@millionaire.levikogjgfdd.ir:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
     <tr><td>05</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#trojan</td><td><code>trojan://humanity@104.18.8.83:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
@@ -70,7 +70,7 @@
     <tr><td>09</td><td>منذ 1 ساعة</td><td>400 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA%3D%3D@it2.levikogjgfdd.ir:10901#%3E%3E%40v2rayng_fast%3A%3AIT</code></td></tr>
     <tr><td>10</td><td>منذ 1 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&amp;security=none&amp;type=ws&amp;headerType=&amp;host=square-brook-e650.353-3ac.workers.de…</code></td></tr>
     <tr><td>11</td><td>منذ 1 ساعة</td><td>18 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@cf.levikogjgfdd.ir:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#%3E%3E%40v2rayng_fast%3A%3AUS</code></td></tr>
-    <tr><td>12</td><td>منذ 1 ساعة</td><td>25 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>12</td><td>منذ 2 ساعة</td><td>25 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
     <tr><td>13</td><td>منذ 2 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#ss</td><td><code>ss://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMifQ</code></td></tr>
     <tr><td>14</td><td>منذ 2 ساعة</td><td>125 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%3E%3E%40v2ray_configs_pool%3A%3AUS</code></td></tr>
     <tr><td>15</td><td>منذ 2 ساعة</td><td>168 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#vmess</td><td><code>vmess://eyJhZGQiOiIyMTYuMTA2LjE4NS4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5hbWUiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjIyMzI0LCJzY3kiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbCwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMifQ</code></td></tr>
