@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-08%2012%3A01%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-08%2012%3A11%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,18 +52,18 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-08 12:01 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-08 12:11 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 19 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 19 دقيقة</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>02</td><td>منذ 19 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 19 دقيقة</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>03</td><td>منذ 19 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 19 دقيقة</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>04</td><td>منذ 19 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 19 دقيقة</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>05</td><td>منذ 59 دقيقة</td><td>26 ms</td><td>100.0%</td><td>منذ 59 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>منذ 29 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 29 دقيقة</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>02</td><td>منذ 29 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 29 دقيقة</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>03</td><td>منذ 29 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 29 دقيقة</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>04</td><td>منذ 29 دقيقة</td><td>7 ms</td><td>100.0%</td><td>منذ 29 دقيقة</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>05</td><td>منذ 1 ساعة</td><td>26 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>06</td><td>منذ 1 ساعة</td><td>15 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>07</td><td>منذ 1 ساعة</td><td>14 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>08</td><td>منذ 1 ساعة</td><td>16 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
@@ -88,7 +88,7 @@
     <tr><td>27</td><td>منذ 3 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://f692629b-3557-488a-9c9b-60775331e423@185.238.191.26:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=fi1-cosmostechnology.ru&amp;pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&amp;type=tcp&amp;headerType=none#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84</code></td></tr>
     <tr><td>28</td><td>منذ 3 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#ss</td><td><code>ss://f692629b-3557-488a-9c9b-60775331e423@84.21.189.231:443?encryption=none&amp;security=reality&amp;sni=fi1-cosmostechnology.ru&amp;pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&amp;type=grpc&amp;authority=&amp;serviceName=fi1cosmos&amp;mode=gun#%40Daily_Configs%20%3A%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84</code></td></tr>
     <tr><td>29</td><td>منذ 3 ساعة</td><td>غير متاح</td><td>غير متاح</td><td>غير متاح</td><td>#tg_proxy</td><td><code>tg://proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d</code></td></tr>
-    <tr><td>30</td><td>منذ 3 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@195.133.5.207:20188#Россия🇷🇺</code></td></tr>
+    <tr><td>30</td><td>منذ 4 ساعة</td><td>غير متاح</td><td>0.0%</td><td>غير متاح</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YmRiMzEzYWRmNzRjMmVkZQ@195.133.5.207:20188#Россия🇷🇺</code></td></tr>
   </tbody>
 </table>
 
