@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="قناة تيليجرام @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="رسالة مباشرة على تيليجرام" src="https://img.shields.io/badge/Telegram-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D8%A7-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-08%2001%3A51%20UTC&color=blue">
+  <img alt="آخر تحديث" src="https://img.shields.io/static/v1?label=%D8%A2%D8%AE%D8%B1%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB&message=2026-08-08%2002%3A01%20UTC&color=blue">
   <img alt="تحديث تلقائي كل 10 دقائق" src="https://img.shields.io/static/v1?label=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%20%D8%AA%D9%84%D9%82%D8%A7%D8%A6%D9%8A&message=%D9%83%D9%84%2010%20%D8%AF%D9%82%D8%A7%D8%A6%D9%82&color=brightgreen">
   <img alt="الرخصة: Unlicense" src="https://img.shields.io/static/v1?label=%D8%A7%D9%84%D8%B1%D8%AE%D8%B5%D8%A9&message=Unlicense&color=lightgrey">
 </p>
@@ -52,14 +52,14 @@
 
 ## أحدث 30 إعدادًا
 
-**آخر تحديث:** 2026-08-08 01:51 UTC (يُحدَّث كل 10 دقائق)
+**آخر تحديث:** 2026-08-08 02:01 UTC (يُحدَّث كل 10 دقائق)
 
 <table>
   <thead>
     <tr><th>#</th><th>متى</th><th>زمن الاستجابة</th><th>نسبة النجاح</th><th>آخر نشاط</th><th>الوسم</th><th>الإعداد</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>منذ 30 دقيقة</td><td>28 ms</td><td>100.0%</td><td>منذ 30 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>منذ 40 دقيقة</td><td>28 ms</td><td>100.0%</td><td>منذ 40 دقيقة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080?prefix%16%03%01%00%C2%A8%01%01#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>منذ 1 ساعة</td><td>52 ms</td><td>100.0%</td><td>منذ 1 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHY3p1SEQxMlI2eUNMeE5Fb2htX25R@37.77.105.11:1080#Россия🇷🇺</code></td></tr>
     <tr><td>03</td><td>منذ 2 ساعة</td><td>7 ms</td><td>100.0%</td><td>منذ 2 ساعة</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.161.213:59924#Германия🇩🇪</code></td></tr>
     <tr><td>04</td><td>منذ 3 ساعة</td><td>11 ms</td><td>100.0%</td><td>منذ 3 ساعة</td><td>#trojan</td><td><code>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40kakajan1</code></td></tr>
